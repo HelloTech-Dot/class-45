@@ -1,5 +1,5 @@
 # C37-SpeedRacer_ReferenceCode
-# this game uses many scripts and i am going to show you one of them this game was created in JS, CSS, and HTML
+# this game uses many scripts and I am going to show you one of them this game was created in JS, CSS, and HTML
 
 class Game {
     constructor() {
